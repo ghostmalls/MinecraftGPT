@@ -1,3 +1,6 @@
+Disclaimer: This is my own personal port of mcGPT for Minecraft 1.20.1. This is also my first fork of a project so if I've done something incorrectly please let me know!
+
+
 # Minecraft GPT
 A fabric mod that allows ChatGPT to build structures. You can download [Fabric here](https://fabricmc.net/use/installer/). Here is a [video demo](https://www.reddit.com/r/Minecraft/comments/1305p4e/i_made_a_minecraft_mod_that_lets_chatgpt_build/?utm_source=share&utm_medium=web2x&context=3).
 
